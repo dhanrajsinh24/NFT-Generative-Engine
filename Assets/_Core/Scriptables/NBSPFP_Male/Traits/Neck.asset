@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deefda0a622f244278d5c7d5bad3824d, type: 3}
+  m_Name: Neck
+  m_EditorClassIdentifier: 
+  name: Neck
+  nftImages:
+  - {fileID: 11400000, guid: 3ec9a719a853647f59d0d23b71f45956, type: 2}
+  - {fileID: 11400000, guid: a074ca252829347c8b24258d75843945, type: 2}
+  - {fileID: 11400000, guid: e95b601cf655f430e82c434c2c03fee0, type: 2}
+  - {fileID: 11400000, guid: 09fcdaee50dc1427ea00a3937d810441, type: 2}
+  linkedNftTraits: []
+  rawImageIndex: 4

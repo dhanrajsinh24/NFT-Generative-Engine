@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: deefda0a622f244278d5c7d5bad3824d, type: 3}
+  m_Name: Outfit
+  m_EditorClassIdentifier: 
+  name: Outfit
+  nftImages:
+  - {fileID: 11400000, guid: 7d4b9cea65c6d4c19877d74b6a6b6f79, type: 2}
+  - {fileID: 11400000, guid: ab73f8604c84e4770b25a7d2cc8c957a, type: 2}
+  - {fileID: 11400000, guid: a480b3eb91234462783feeef487f86a4, type: 2}
+  - {fileID: 11400000, guid: 331921bfbbaef4700b18e9873ca5983c, type: 2}
+  rawImageIndex: 6
+  traitRarity: 0
